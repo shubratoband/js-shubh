@@ -44,8 +44,8 @@ let  myFriendname = myName
 
 myFriendname = "abhi"
 
-console.log(myFriendname);
-console.log(myName);
+// console.log(myFriendname);
+// console.log(myName);
 
 
 // Example of Heap (Call by reference) 
